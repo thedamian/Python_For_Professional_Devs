@@ -9,7 +9,8 @@ The slides can be seen in: [Google Slides Link](https://docs.google.com/presenta
 - [StreamLit Basic Example](https://github.com/thedamian/No_Front_End)
 - [AI Rag Example](https://github.com/thedamian/Langchain_streamlit_rag)
 - [Basic Web API using FastAPI](https://github.com/thedamian/fastapiBasic)
-- [OpenCV Example](https://github.com/thedamian/OpenCV_FaceRecognition)
+- [OpenCV Face Recognition Example](https://github.com/thedamian/OpenCV_FaceRecognition)
+- [OpenCV ASCII Video Player](https://github.com/esser50k/asciiplayer)
 
 ## Links of references
 - [PyPi.org](https://pypi.org)
