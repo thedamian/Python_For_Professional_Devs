@@ -1,15 +1,15 @@
 # Python for professional Devs
 A repo full of tips for professional developers that want to learn Python
 
+## Slides 
+This was the repo used in the presentation for the DevDiv Workshop Group on April 23rd<BR>
+The slides can be seen in: [Google Slides Link](https://docs.google.com/presentation/d/1yG1U8ZlRVmrYcIBlam65rq010EWEMXEp8YKzd48svMQ/edit?usp=sharing)
+
 ## Project Examples
 - [StreamLit Basic Example](https://github.com/thedamian/No_Front_End)
 - [AI Rag Example](https://github.com/thedamian/Langchain_streamlit_rag)
 - [Basic Web API using FastAPI](https://github.com/thedamian/fastapiBasic)
 - [OpenCV Example](https://github.com/thedamian/OpenCV_FaceRecognition)
-
-## Slides 
-This was the repo used in the presentation for the DevDiv Workshop Group on April 23rd<BR>
-The slides can be seen in: [Google Slides Link](https://docs.google.com/presentation/d/1yG1U8ZlRVmrYcIBlam65rq010EWEMXEp8YKzd48svMQ/edit?usp=sharing)
 
 ## Links of references
 - [PyPi.org](https://pypi.org)
@@ -17,4 +17,3 @@ The slides can be seen in: [Google Slides Link](https://docs.google.com/presenta
 - [Poetry](https://python-poetry.org/docs/)
 - [Py Env](https://github.com/pyenv/pyenv?tab=readme-ov-file#a-getting-pyenv) 
 - [Conda / MiniConda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
-  
