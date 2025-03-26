@@ -11,6 +11,7 @@ The slides can be seen in: [Google Slides Link](https://docs.google.com/presenta
 - [Basic Web API using FastAPI](https://github.com/thedamian/fastapiBasic)
 - [OpenCV Face Recognition Example](https://github.com/thedamian/OpenCV_FaceRecognition)
 - [OpenCV ASCII Video Player](https://github.com/esser50k/asciiplayer)
+- [Streamlit with AI](https://streamlit.io/generative-ai)
 
 ## Links of references
 - [PyPi.org](https://pypi.org)
