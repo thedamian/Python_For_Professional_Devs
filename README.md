@@ -15,7 +15,7 @@ The slides can be seen in: [Google Slides Link](https://docs.google.com/presenta
 
 ## Links of references
 - [PyPi.org](https://pypi.org)
+- [Py Env](https://github.com/pyenv/pyenv?tab=readme-ov-file#a-getting-pyenv)   
 - [Uv](https://docs.astral.sh/uv/getting-started/installation/)
 - [Poetry](https://python-poetry.org/docs/)
-- [Py Env](https://github.com/pyenv/pyenv?tab=readme-ov-file#a-getting-pyenv) 
 - [Conda / MiniConda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
