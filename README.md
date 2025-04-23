@@ -1,6 +1,9 @@
 # Python for professional Devs
 A repo full of tips for professional developers that want to learn Python
 
+## Links
+https:// Damian . Rocks
+
 ## Slides 
 This was the repo used in the presentation for the DevDiv Workshop Group on April 23rd<BR>
 The slides can be seen in: [Google Slides Link](https://docs.google.com/presentation/d/1yG1U8ZlRVmrYcIBlam65rq010EWEMXEp8YKzd48svMQ/edit?usp=sharing)
