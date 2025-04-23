@@ -14,6 +14,11 @@ The slides can be seen in: [Google Slides Link](https://docs.google.com/presenta
 - [OpenCV ASCII Video Player](https://github.com/esser50k/asciiplayer)
 - [Streamlit with AI](https://streamlit.io/generative-ai)
 
+## Awesome Python & AI Content:
+- [Pamela Fox's Pyton OpenAI Demos](https://github.com/pamelafox/python-openai-demos)
+- [Lucky Pamula's Azure AI Agents Labs](https://github.com/luckypamula/azure-ai-agents-labs)
+- [Microsoft's AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
 ## Links of references
 - [PyPi.org](https://pypi.org)
 - [Py Env](https://github.com/pyenv/pyenv?tab=readme-ov-file#a-getting-pyenv)   
